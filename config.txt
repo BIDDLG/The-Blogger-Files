@@ -1,4 +1,2 @@
-{
-  "theme_url": "https://popcornbaba.blogspot.com",
-  "posts_url": "https://ipmoviesgroup.blogspot.com"
-}
+https://popcornbaba.blogspot.com
+https://ipmoviesgroup.blogspot.com
